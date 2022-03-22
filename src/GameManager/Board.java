@@ -19,6 +19,9 @@ public class Board {
             }
         }
     }
+    public void insertStone(){
+
+    }
 
     public static char[][] getBoard() {
         return board;
