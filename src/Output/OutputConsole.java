@@ -4,7 +4,6 @@ public class OutputConsole implements Drawing
 {
     @Override
     public void print() {
-
     }
 
     @Override
